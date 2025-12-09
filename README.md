@@ -35,8 +35,8 @@ Pastikan Python telah terinstal di sistem Anda. Proyek ini bergantung pada pusta
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/username/hand-control-system.git](https://github.com/username/hand-control-system.git)
-    cd hand-control-system
+    git clone https://github.com/ExtremeBoyGG/LiveCam-Agent
+    cd LiveCam-Agent
     ```
 
 2.  **Instal Dependensi**
