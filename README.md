@@ -77,5 +77,5 @@ Aktifkan mode ini dengan mengangkat **3 jari**. Kursor akan berhenti sementara m
 
 ## Bantu Kami Menyempurnakan
 
-Kritik dan saran kami terima di link google form berikut ![Form](https://docs.google.com/forms/d/e/1FAIpQLSfxCYz_74nT5xzEwZIKl5b9MtB-HnaELzpU8oYeds_fc1wvtQ/viewform?usp=publish-editor)
+Kritik dan saran kami terima di link google form berikut [Form](https://docs.google.com/forms/d/e/1FAIpQLSfxCYz_74nT5xzEwZIKl5b9MtB-HnaELzpU8oYeds_fc1wvtQ/viewform?usp=publish-editor)
 Made with ❤️ By Group 7
