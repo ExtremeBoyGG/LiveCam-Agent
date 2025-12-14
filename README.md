@@ -2,7 +2,7 @@
 
 Sistem antarmuka berbasis computer vision yang mengubah gestur tangan menjadi perintah sistem operasi secara real-time. Proyek ini memanfaatkan OpenCV dan MediaPipe untuk menciptakan mouse virtual dan pengenalan gestur presisi tinggi, memungkinkan pengguna mengontrol komputer tanpa perangkat periferal fisik.
 
-Teknologi:![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+Teknologi:![Python](https://img.shields.io/badge/Python-3.9.13-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Automation-red)
