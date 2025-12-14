@@ -61,7 +61,7 @@ Sistem mendeteksi jumlah jari aktif dan pose tangan spesifik untuk memicu aksi. 
 | **1 Jari (Telunjuk)** | **Gerak Kursor** | Menggerakkan pointer mouse. Gunakan area tengah kamera untuk menjangkau seluruh layar. |
 | **Cubit (Jempol + Telunjuk)** | **Klik Kiri / Drag** | Cubit cepat untuk klik. Cubit dan tahan sambil bergerak untuk drag file atau jendela. |
 | **2 Jari (Membentuk V)** | **Klik Kanan** | Memicu menu konteks klik kanan sekali. |
-| **4 Jari** | **None** | None |
+| **4 Jari** | **Menutup Aplikasi** | Menutup aplikasi yang sedang fokus |
 | **5 Jari (Telapak Terbuka)** | **Mode Scroll** | Gerakkan tangan ke atas atau bawah untuk menggulir halaman web/dokumen. |
 
 ### Pintasan Aplikasi (Mode 3 Jari)
@@ -77,5 +77,5 @@ Aktifkan mode ini dengan mengangkat **3 jari**. Kursor akan berhenti sementara m
 
 ## Bantu Kami Menyempurnakan
 
-Kritik dan saran kami terima di link google form berikut [Form](https://forms.gle/TvvPQcsXCoS8j7NKA) <br>
+Kritik dan saran kami terima di link google form berikut [Form](https://docs.google.com/forms/d/e/1FAIpQLSc8MEe5js8d0HDwCQK6V_0yMYZXVEmICaU36418-MM-nwg8-g/viewform) <br>
 Made with ❤️ By Group 7
